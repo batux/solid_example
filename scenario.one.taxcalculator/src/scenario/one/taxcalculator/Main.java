@@ -15,6 +15,13 @@ import scenario.one.taxcalculator.tax.OTVTax;
 import scenario.one.taxcalculator.tax.TaxCalculator;
 import scenario.one.taxcalculator.tax.TaxPolicy;
 
+/*
+ * 
+ * Batuhan Duzgun - Computer Engineer
+ * Yeditepe University - 2017
+ * 
+ */
+
 public class Main {
 
 	public static void main(String[] args) {
